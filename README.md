@@ -24,9 +24,9 @@
 ### RoboCup 2024 — Eindhoven, Netherlands 🥈
 **2nd Place, Division B, Small Size League**
 
-<!-- Add match footage thumbnail + YouTube link here -->
-<img src="./media/2023_ita_postgame.jpg" width="70%"/>
-<!-- [![RoboCup 2024 Match Footage](./media/2024_grandfinal_postgame.jpg)](link) -->
+<p align="centre">
+  <img src="./media/2024_tbots_teamphoto_banner.JPG" width="70%"/>
+</p>
 
 ### Team Description Papers
 Co-authored annual technical reports submitted as part of the RoboCup SSL qualification process, covering integration of mechanical, electrical, and software systems.
@@ -59,6 +59,7 @@ As Integration Lead and Captain, I founded and led Thunderbots' first dedicated 
 <img src="./media/ubc_test_field.jpg" width="50%"/>
 
 **Test footage**
+- [Obstacle Avoidance & Ball Retrieval](https://youtu.be/cILfb-S7bKM): path planning and tracking performance
 - [Chipper Testing](https://youtu.be/kkc0J0bwD34): benchmarking solenoid output vs chip distance
 - [Drivetrain slippage testing](https://youtu.be/dhpJPy4J4jo?si=qYpjCL241TnXLHCN): observing slippage during acceleration
 <!-- ![Integration testing](./assets/integration_testing.jpg) -->
@@ -78,7 +79,17 @@ The design I led used an aluminium frame rotating about a pivot point with a thr
 - Generated and reviewed engineering drawings for each iteration
 
 <!-- Add prototype photos and/or CAD renders here -->
-<!-- ![Dribbler prototype iterations](./assets/dribbler_iterations.jpg) -->
+<p>
+  <img src="./media/2019_old_dribbler.png" width="30%"/>
+  <img src="./media/2019_newdribbler.png" width="30%"/>
+  <img src="./media/2019_dribbler_cncProto.jpg" width="30%"/>
+  <br> <em> Left: Old design | Middle: Initial redesign (2020) | Right: Physical prototype (2020) </em>
+</p>
+
+<p align="center">
+  <img src="./media/2024_dribbler_cad.png" width="40%"/>
+  <br> <em> Final Dribbler used in 2024 competition </em>
+</p>  
 <!-- ![Dribbler CAD](./assets/dribbler_cad.png) -->
 
 ---
@@ -94,8 +105,16 @@ Redesigned the robot drivetrain to improve overall manoeuvrability and structura
 - Produced engineering drawings for manufacturing
 
 <!-- Add omni-wheel photos, CAD renders, and/or drawings here -->
-<!-- ![Drivetrain redesign](./assets/drivetrain.jpg) -->
-<!-- ![Motor mount drawing](./assets/motor_mount_drawing.png) -->
+<p align="center">
+  <img src="./media/2019_drivetrain_cad.png" width="50%"/>
+</p>
+
+<p>
+  <img src="./media/2019_MM_drawing.png" width="35%"/>
+  <img src="./media/2019_wheel_face.png" width="27%"/>
+  <img src="./media/2019_wheel_proto.jpg" width="36%"/>
+  <br> <em> Left: Wheel and Motor Mount drawing | Middle: Omni-Wheel CAD | Right: Physical wheel prototypes (2020) </em>
+</p>
 
 ---
 
