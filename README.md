@@ -2,7 +2,7 @@
 
 **University of British Columbia** | Sept 2019 – May 2025
 
-[![RoboCup 2024 — 2nd Place, Division B](https://img.shields.io/badge/RoboCup%202024-2nd%20Place%20Division%20B-silver?style=flat)](https://robocup.org)
+[![RoboCup 2024 — 2nd Place, Division B](https://img.shields.io/badge/RoboCup%202024-2nd%20Place%20Division%20B-silver?style=flat)](https://ssl.robocup.org/robocups/robocup-2024/robocup-2024-awards/)
 
 > My home for five years — designing, building, and integrating autonomous soccer-playing robots competing in the [RoboCup Small Size League](https://ssl.robocup.org/), where teams of six robots play fully autonomous soccer at high speed.
 
@@ -25,7 +25,8 @@
 **2nd Place, Division B, Small Size League**
 
 <!-- Add match footage thumbnail + YouTube link here -->
-<!-- [![RoboCup 2024 Match Footage](./assets/robocup2024_thumb.png)](https://youtube.com/watch?v=LINK) -->
+<img src="./media/2023_ita_postgame.jpg" width="70%"/>
+<!-- [![RoboCup 2024 Match Footage](./media/2024_grandfinal_postgame.jpg)](link) -->
 
 ### Team Description Papers
 Co-authored annual technical reports submitted as part of the RoboCup SSL qualification process, covering integration of mechanical, electrical, and software systems.
@@ -51,10 +52,15 @@ As Integration Lead and Captain, I founded and led Thunderbots' first dedicated 
 - Founded the Integration Team to formalise cross-subsystem debugging and pre-competition validation
 - Designed test plans to verify points of failure in the kicking and chipping mechanisms, and calibrated solenoid output forces
 - Developed diagnostic tools and custom jigs for validating hardware/software interactions
-- Spearheaded construction of a 17m × 20m practice field for full-scale gameplay testing
 - Directed real-time emergency repairs and tactical adjustments during live international competition
+- Spearheaded construction of a 17m × 20m practice field for full-scale gameplay testing
 
 <!-- Add photos of test jigs, field, robots in competition -->
+<img src="./media/ubc_test_field.jpg" width="50%"/>
+
+**Test footage**
+- [Chipper Testing](https://youtu.be/kkc0J0bwD34): benchmarking solenoid output vs chip distance
+- [Drivetrain slippage testing](https://youtu.be/dhpJPy4J4jo?si=qYpjCL241TnXLHCN): observing slippage during acceleration
 <!-- ![Integration testing](./assets/integration_testing.jpg) -->
 
 ---
